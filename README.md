@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning Fullstack whit Javascript
-- - 💬 Ask me about RUnning tips, i love it
+- - 💬 Ask me about Running tips, i love it
 <!--
 **juliangavirialugo/juliangavirialugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
